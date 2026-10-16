@@ -1,0 +1,66 @@
+
+# 🇮🇹 Italian Barrista Café App
+
+A mobile-friendly digital menu for Italian Barrista Café, featuring food and drink items, prices in Omani Rial (OMR), and a simple menu management panel.
+
+## ✨ Features
+
+- 📱 Mobile-friendly menu
+- 🍕 Food and beverage categories
+- 💰 Prices in Omani Rial (OMR)
+- 🌐 English and Arabic menu text support
+- 🖼️ Add photos to menu items
+- ✏️ Edit item names, descriptions, and prices
+- ➕ Add new menu items
+- 🗑️ Delete menu items
+- 🔴 Mark items as sold out
+- 💾 Save menu changes locally on the device
+
+## 🛠️ Built With
+
+- HTML
+- CSS
+- JavaScript
+- Android WebView
+- Gradle
+
+## 🚀 How to Use
+
+1. Open the app on your Android device.
+2. Browse the available menu items.
+3. Use the menu management panel to update items.
+4. Add item photos, descriptions, and prices as needed.
+
+## 🔐 Admin Access
+
+The standalone demo uses PIN `1234`.
+
+**Important:** This PIN is for demonstration only. Do not use it to protect sensitive information in a production app.
+
+## 💵 Currency and Tax
+
+- Currency: Omani Rial (OMR)
+- Menu prices are intended to include 5% tax, as stated in the café menu.
+
+Confirm all prices and tax settings before publishing.
+
+## 📦 Build the Android APK
+
+This repository can be configured to build an Android APK using GitHub Actions.
+
+1. Upload the Android project files to this repository.
+2. Check the **Actions** tab on GitHub.
+3. Open the Android build workflow.
+4. Wait for the workflow to finish successfully.
+5. Download the APK artifact if the build succeeds.
+
+## ⚠️ Limitations
+
+- Menu edits and photos are stored locally on the device/browser.
+- Changes are not automatically shared between customers' devices.
+- Online ordering, payment processing, and delivery integration are not included in the demo.
+- The app needs further testing before public release.
+
+## 📄 License
+
+All rights reserved to the respective owners of the Italian Barrista Café name, logo, and menu content.
